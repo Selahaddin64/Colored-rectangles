@@ -7,3 +7,6 @@
 
 
 This project was made using html and css and grid structure.
+
+
+![alt text](https://github.com/Selahaddin64/Colored-rectangles/blob/mastery/renkli%20dikd%C3%B6rtgenler.jpg)
